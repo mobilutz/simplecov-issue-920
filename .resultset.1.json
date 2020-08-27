@@ -1,0 +1,36 @@
+{
+  "NODE 1 of 2": {
+    "coverage": {
+      "/THIS_NEEDS_TO_BE_AN_ABSOLUTE_PATH/app/lib/logger/timestamp_formatter.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          84,
+          null,
+          null,
+          null
+        ]
+      },
+      "/THIS_NEEDS_TO_BE_AN_ABSOLUTE_PATH/app/lib/mail_recipient_recorder.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          61,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1597750200
+  }
+}
